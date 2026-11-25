@@ -15,7 +15,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Surco Raro | Vinilos de colección",
-    page_icon="💿",
+    page_icon="🐦‍⬛",
     layout="wide",
 )
 
